@@ -107,7 +107,7 @@ HazeemPortfolio/
 
 🚀 Getting Started
 01 — Clone the repository
-git clone https://github.com/stryker461-cpu/HazeemPortfolio.git
+git clone https://github.com/MHazeemshafi/HazeemPortfolio.git
 
 02 — Enter the project
 cd HazeemPortfolio
