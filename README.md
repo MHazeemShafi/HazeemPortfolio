@@ -266,22 +266,7 @@ Dynamic elements
 🌐 Live Project
 🔗 Source Code
 
-GitHub Repository
 
-https://github.com/stryker461-cpu/HazeemPortfolio
-
-📸 Preview
-
-Add screenshots or a GIF of your portfolio here.
-
-assets/
-│
-├── screenshot-desktop.png
-├── screenshot-tablet.png
-└── screenshot-mobile.png
-
-
-Once you have screenshots, you can display them directly in this section.
 
 📈 Future Improvements
 
@@ -327,8 +312,6 @@ Give the repository a star!
 It helps support the project and motivates me to keep improving it. 🚀
 
 <br>
-Built with ❤️ and vanilla JavaScript
-
 © Hazeem — 2026
 
 </div>
